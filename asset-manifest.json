@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/PhotoFolio/static/css/main.01d8d60a.css",
+    "main.js": "/PhotoFolio/static/js/main.33502321.js",
+    "index.html": "/PhotoFolio/index.html",
+    "main.01d8d60a.css.map": "/PhotoFolio/static/css/main.01d8d60a.css.map",
+    "main.33502321.js.map": "/PhotoFolio/static/js/main.33502321.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.01d8d60a.css",
+    "static/js/main.33502321.js"
+  ]
+}
